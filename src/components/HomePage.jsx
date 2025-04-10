@@ -3,9 +3,9 @@ import "../components/HomePage.css";
 const HomePage = () => {
   return (
     <>
-      <div className="navBar bg-blue-400">
+      <div className="navBar">
         <div className="logo-section">
-          <img src="#" alt="Logo" />
+          <img src="../assets/images/brand-logo" alt="" />
         </div>
         <div className="navList">
           <a href="#">Home</a>
