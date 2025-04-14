@@ -1,11 +1,12 @@
 import { useState } from "react";
+import LandingPage from "./components/LandingPage";
 import "./App.css";
-import HomePage from "./components/HomePage";
 
 function App() {
   return (
     <>
-      <HomePage />
+      <h1>Hello Rupesh</h1>
+      <LandingPage />
     </>
   );
 }
